@@ -1,6 +1,6 @@
 {
   "name": "styled-jsx-theming",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "An opinionated theming library for your Styled-JSX projects",
   "main": "index.js",
   "types": "index.d.ts",
@@ -34,5 +34,7 @@
     "@types/react": "^16.9.2",
     "typescript": "^3.6.2"
   },
-  "files": [ "dist/" ]
+  "files": [
+    "dist/"
+  ]
 }
