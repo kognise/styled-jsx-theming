@@ -32,5 +32,6 @@
   "devDependencies": {
     "@types/react": "^16.9.2",
     "typescript": "^3.6.2"
-  }
+  },
+  "files": [ "dist/" ]
 }
