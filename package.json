@@ -1,0 +1,36 @@
+{
+  "name": "styled-jsx-theming",
+  "version": "0.0.1",
+  "description": "An opinionated theming library for your Styled-JSX projects",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kognise/styled-jsx-theming.git"
+  },
+  "keywords": [
+    "styled-jsx",
+    "theme",
+    "theming",
+    "react",
+    "jsx",
+    "style",
+    "stylesheet"
+  ],
+  "author": "Kognise",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kognise/styled-jsx-theming/issues"
+  },
+  "homepage": "https://github.com/kognise/styled-jsx-theming#readme",
+  "peerDependencies": {
+    "react": "^16.9.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.2",
+    "typescript": "^3.6.2"
+  }
+}
