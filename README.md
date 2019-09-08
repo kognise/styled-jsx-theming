@@ -1,12 +1,10 @@
-<center>
+<center align='center'>
 
 # Styled-JSX Theming Library
 
 *An opinionated theming library for your Styled-JSX projects to develop stylesheets faster.*
 
 This can be easily used for other React styling libraries as well, but it was designed for Styled-JSX which I primarily use.
-
-<hr>
 
 </center>
 
