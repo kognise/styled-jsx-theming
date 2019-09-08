@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "An opinionated theming library for your Styled-JSX projects",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "build": "tsc",
     "dev": "tsc -w"
