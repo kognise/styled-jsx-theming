@@ -26,7 +26,9 @@ export default (props: ThemeProvider) => {
     themes: props.themes,
     currentTheme: props.themes[current],
     setTheme: (key: string) => setCurrent(key)
-  }} />
+  }} >
+    {props.children}
+  </themeContext.Provider>
 }
 
 export const withTheme = (WrappedComponent: ReactType) => (props?: object) => (
