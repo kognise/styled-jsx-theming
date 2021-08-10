@@ -1,3 +1,7 @@
+> 🚩 **This project is archived!** 🚩
+> 
+> *This was a cool idea but it doesn't reflect how I develop software anymore and as such I have no reason to finish developing it.*
+
 # Styled-JSX Theming Library
 
 *An opinionated theming library for your Styled-JSX projects to develop stylesheets faster.*
